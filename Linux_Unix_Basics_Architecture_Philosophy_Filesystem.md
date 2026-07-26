@@ -10,13 +10,15 @@ hardware, allowing programs to run safely and efficiently.
 
 * It was developed in 1969 at Bell Labs.
 
-![alt text](<Screenshot 2026-07-26 at 1.21.05 PM.png>)
+<img width="1032" height="330" alt="image" src="https://github.com/user-attachments/assets/0f7a9599-f0b1-45a0-85ee-3066be270523" />
+
 
 ------------------------------------------------------------------------
 
 # Linux/Unix Architecture
 
- ![alt text](<Screenshot 2026-07-26 at 1.29.14 PM.png>)
+<img width="1830" height="558" alt="image" src="https://github.com/user-attachments/assets/74021f9b-e3bb-4420-8265-45dbb23e554d" />
+
 
 ## 1. User Level
 
@@ -59,10 +61,12 @@ data from storage and returns it.
 Examples:  CPU, RAM, SSD/HDD, Keyboard, Mouse, Monitor, Network
 card
 
-![alt text](<Screenshot 2026-07-26 at 1.41.57 PM-1.png>)
+<img width="1012" height="290" alt="image" src="https://github.com/user-attachments/assets/cd381c2d-d40a-45f1-a2ee-3b39ce9dd0f1" />
+
 
 ## Diffrent variants of Unix
-![alt text](<Screenshot 2026-07-26 at 1.26.35 PM-1.png>)
+<img width="852" height="558" alt="image" src="https://github.com/user-attachments/assets/a4fdbbc1-8536-4067-acba-d72783c02f41" />
+
 
 ## Unix Family Tree 
 
@@ -84,13 +88,15 @@ card
 
 ## 1. Do one thing well
 
-![alt text](<Screenshot 2026-07-26 at 1.57.04 PM-1.png>)
+<img width="870" height="282" alt="image" src="https://github.com/user-attachments/assets/0350084f-68b1-4a3f-9b82-4a306c400741" />
+
 
 ------------------------------------------------------------------------
 
 ## 2. Everything is a file
 
-![alt text](<Screenshot 2026-07-26 at 2.00.47 PM-1.png>)
+<img width="884" height="286" alt="image" src="https://github.com/user-attachments/assets/6edbdecd-d73b-4f02-8d70-862c1e76890e" />
+
 
 ------------------------------------------------------------------------
 
@@ -130,7 +136,8 @@ Example:
 ``` bash
 ps -ef | grep python
 ```
-![alt text](<Screenshot 2026-07-26 at 2.02.57 PM-1.png>)
+<img width="878" height="256" alt="image" src="https://github.com/user-attachments/assets/1dc3478d-867e-4f44-bb66-4df04cfc52a3" />
+
 ------------------------------------------------------------------------
 ## 5. Choose portability over efficiency:
 It's usually better to write software that works on many systems than software that only works on one system but is slightly faster.
@@ -165,7 +172,8 @@ Don't make your program, design, or command more complicated than it needs to be
 * Unlike Windows, Linux does not have multiple drive letters such as C:\, D:\, or E: .
 * Instead, Linux stores everything under a single root directory "/".
 
-![alt text](file-System-1.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3a21edd0-a0eb-48c1-b125-da2c763dc0fc" />
+
 
 ------------------------------------------------------------------------
 
@@ -193,9 +201,20 @@ Documents/file.txt
 # File Permissions
 Linux uses **file permissions** to control who can read, modify, or execute a file or directory. Every file has three types of users and three types of permissions.
 
-![alt text](file-permission-1.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/20ad25e6-3fc1-4fcb-982f-92e59b94e218" />
+
 
 ------------------------------------------------------------------------
+
+### References 
+
+* The Linux Foundation & Linux Kernel Documentation. https://docs.kernel.org/
+
+* The Linux Documentation Project. https://tldp.org/
+
+* GNU Core Utilities Manual. https://www.gnu.org/software/coreutils/manual/
+
+* The Open Group. (2018). https://pubs.opengroup.org/onlinepubs/9699919799/
 
 
 
