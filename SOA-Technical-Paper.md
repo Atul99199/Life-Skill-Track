@@ -4,17 +4,16 @@
 
 # 1. Introduction
 
-Modern applications are expected to support thousands or even millions of users while maintaining high availability and fast response times. In many legacy systems, the entire application is deployed as a single unit, making it difficult to scale individual components.
+Modern applications need to handle many users while staying fast and reliable. Traditional applications can be difficult to scale because everything is built as one large system.
 
-Service-Oriented Architecture (SOA) is an architectural style that organizes software functionality into loosely coupled, reusable services. These services can be independently developed, deployed, and maintained, allowing organizations to improve system flexibility and scalability.
+SOA solves this by dividing the application into smaller, reusable services. Each service can be developed, updated, and scaled independently, making the system more flexible and easier to manage.
 
 ---
 
 # 2. What is Service-Oriented Architecture?
+SOA is a software architecture that divides an application into independent services, with each service handling a specific task. These services communicate using technologies like HTTP, REST, SOAP, or messaging.
 
-Service-Oriented Architecture (SOA) is a software design pattern where business functionalities are implemented as independent services. Each service performs a specific business function and communicates with other services using standard communication protocols such as HTTP, SOAP, REST, or messaging systems.
-
-The primary objective of SOA is to enable different applications and services to work together regardless of the technologies used to build them.
+The main goal is to allow different services and applications to work together easily, even when they use different technologies.
 
 ---
 
@@ -154,28 +153,6 @@ Recommended practices include:
 
 Common scaling approaches include:
 
-## Horizontal Scaling
-
-Adding additional service instances.
-
-```
-Before
-
-Order Service
-
-↓
-
-1 Instance
-
-After
-
-Order Service
-
-↓
-
-4 Instances
-```
-
 ## Load Balancing
 
 Traffic is distributed across multiple service instances.
@@ -200,36 +177,9 @@ SOA is well suited for:
 
 ---
 
-# 10. When SOA May Not Be Suitable
 
-SOA may not be the best choice for:
 
-- Small applications
-- Simple CRUD applications
-- Short-term projects
-- Teams with limited DevOps experience
-
----
-
-# 11. Recommendation
-
-Based on the project's performance and scalability issues, adopting Service-Oriented Architecture is a viable solution.
-
-Recommended migration strategy:
-
-1. Identify performance bottlenecks.
-2. Extract independent business modules into services.
-3. Introduce an API Gateway or Enterprise Service Bus.
-4. Implement centralized authentication.
-5. Deploy services independently.
-6. Monitor service health and performance.
-7. Scale high-demand services independently.
-
-A gradual migration reduces risk while allowing the system to benefit from improved scalability and maintainability.
-
----
-
-# 12. Conclusion
+# 10. Conclusion
 
 Service-Oriented Architecture provides a robust approach to building scalable and maintainable enterprise systems. By decomposing applications into loosely coupled services, organizations can improve resource utilization, simplify deployments, and respond more effectively to changing business requirements.
 
