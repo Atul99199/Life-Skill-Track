@@ -12,8 +12,7 @@ To be an active listener, I should:
 - Focus on speaker and the topic.  
 - Don’t interrupt the speaker.  
 - Let them finish and then response.  
-- Summarize or repeat in my own words what I understood.  
-- Keep an open mind and avoid making judgments too quickly.  
+- Summarize or repeat in my own words what I understood.   
 
 
 ## 2. Reflective Listening  
@@ -21,9 +20,10 @@ To be an active listener, I should:
 **Question 2:** According to Fisher's model, what are the key points of Reflective Listening?  
 
 **Answer:**  
-- Listen carefully without planning my reply in advance.  
-- Repeat back or rephrase what the other person said, to confirm I understood it right.  
-- Pay attention not only to words, but also to tone, feelings, and body language.  
+- Listen carefully and understand their feelings.
+- Repeat their message in your own words.
+- Don’t judge or interrupt.
+- Show empathy and respect.
 
 ## 3. Reflection  
 
@@ -64,8 +64,8 @@ When I don’t express my feelings directly but show them indirectly, like being
 **Question 8:** How can you make your communication assertive?  
 
 **Answer:**  
-- Speak from your perspective, e.g., “I feel…” or “I need…” instead of blaming others. This makes your message clear and personal without being aggressive. 
-- Say what you mean simply and honestly without being rude.
-- Respect the other person’s point of view while expressing mine.   
-- Stay calm even during disagreements.  
-- Practice saying “no” politely when I cannot do something.   
+- Speak clearly and confidently.
+- Express your thoughts and feelings honestly.
+- Respect others’ opinions.
+- Stay calm and avoid being rude.
+- Say “no” when necessary.  
