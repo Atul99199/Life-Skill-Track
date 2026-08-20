@@ -60,14 +60,6 @@ Internal locus of control means thinking that what happens in your life mostly d
 
 •&nbsp; Take on tougher challenges bravely.
 
-•&nbsp; Ask for feedback and apply it.
-
-•&nbsp; Share your knowledge with others.
-
-•&nbsp; Practice consistently.
-
-•&nbsp; Remember: Struggles help you improve.
-
 ## reference: 
 Grit - https://www.youtube.com/watch?v=H14bBuluwB8
 
